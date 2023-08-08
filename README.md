@@ -177,4 +177,4 @@ c. Admin can retrieve all user’s information and account balances
 
 
 
-Author:[Paul Okoli](https://www.linkedin.com/in/paulokoli)
+Author: [Paul Okoli](https://www.linkedin.com/in/paulokoli)
