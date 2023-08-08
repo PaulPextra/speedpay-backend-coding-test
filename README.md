@@ -32,7 +32,7 @@ c. Admin can retrieve all user’s information and account balances
 
 ## Installation
 
-- Clone this project repository to your local machine.
+- Clone this [project repository](https://github.com/PaulPextra/speedpay-backend-coding-test.git) to your local machine.
 - Open the project folder in your code editor
 - Create and activate a *virtual environment* with the command: `pipenv shell`
 - Install the requirements for this project from the *requirements.txt* file with the command: `pip install -r requirements.txt`
